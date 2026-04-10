@@ -38,6 +38,16 @@ Full details on each of these are in the
 
 ---
 
+## Real-time communication
+
+If real-time coordination is needed, it takes place in a **shared Matrix room**.
+
+- Direct messages are not used
+- All discussion should remain in shared spaces for transparency
+- Access is provided only to active contributors
+
+---
+
 ## Ground rules
 
 - Be respectful. This is a small community project.
