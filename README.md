@@ -42,6 +42,24 @@ Star Stable Online has changed dramatically since its early years. The 2014 vers
 
 ---
 
+## Communication & Contribution Flow
+
+This project prioritizes privacy and anonymity.
+
+- All development discussion happens through **GitHub Issues and Pull Requests**
+- Real-time coordination (if needed) will be done via a **Matrix room**
+- Direct messages are not used
+- Contributors are expected to remain anonymous
+
+If you are interested in contributing:
+1. Read the documentation in the Wiki
+2. Open an Issue describing what you want to work on
+3. Wait for confirmation or feedback before starting
+
+Further communication channels may be provided if necessary.
+
+---
+
 ## Technical summary
 
 The 2014 client runs on the **PXStudio engine**, a proprietary C/C++ engine confirmed by its original author Anders. The client launched via an NPAPI Chrome extension (now a dead technology), and hangs on the tip screen due to four entity null checks in `sub_4519E0` failing without a server. These are the two primary problems to solve.
